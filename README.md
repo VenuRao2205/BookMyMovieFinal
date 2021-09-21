@@ -1,2 +1,0 @@
-# BookMyMovieFinal
-assignment
